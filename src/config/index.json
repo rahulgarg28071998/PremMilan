@@ -1,0 +1,151 @@
+{
+  "company": {
+    "name": "Prem Milan",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+   
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Register Now",
+    "href": "https://forms.gle/PW1Fpw5pCenL3ifi7"
+  },
+  "mainHero": {
+    "title": "Prem Milan",
+    "subtitle": "Where Love Begins!",
+    "description": "At Prem Milan, we are dedicated to helping you find your perfect life partner. With a focus on Hindu marriages in India, our platform is designed to make your search for love easy, efficient, and enjoyable. Whether you're looking for a traditional match or something modern, we cater to all preferences.",
+    "img": "/assets/images/testBg1.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "https://forms.gle/PW1Fpw5pCenL3ifi7"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:rgarg8438@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Prem Milan",
+    "items": [
+      {
+        "title": "Who We Are!",
+        "description": "Prem Milan is dedicated to uniting hearts and building everlasting relationships. Specializing in Hindu marriages, our platform is designed to provide you with a seamless and efficient matchmaking experience.",
+        "img": "/assets/images/test1.jpg"
+      },
+      {
+        "title": "Our Mission!",
+        "description": "Our mission is to bring together individuals seeking meaningful and lasting relationships. We strive to offer a secure, user-friendly, and effective platform where you can find your ideal partner.",
+        "img": "/assets/images/test2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "How It Works",
+    "description": "Finding your perfect match is simple and straightforward with Prem Milan. Follow these easy steps to start your journey towards a beautiful relationship.",
+    "items": [
+      {
+        "name": "Sign Up",
+        "description": "Create your profile and provide us with your preferences.",
+        "icon": "/assets/images/bullet.png"
+      },
+      {
+        "name": "Browse Profiles",
+        "description": "Use our search filters to find potential matches.",
+        "icon": "/assets/images/bullet.png"
+      },
+      {
+        "name": "Connect",
+        "description": "View contact details and initiate conversations with your matches.",
+        "icon": "/assets/images/bullet.png"
+      },
+      {
+        "name": "Personalized Support",
+        "description": "Receive guidance and support from our dedicated team.",
+        "icon": "/assets/images/bullet.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Basic Plan💕",
+        "price": "Rs.0",
+        "priceDetails": "for one user",
+        "features": [
+          "Access to 100 profiles",
+          "Basic search filters",
+          "View contact upto 10 profiles"
+        ]
+      },
+      {
+        "name": "Pro Plan 🌟",
+        "price": "Rs.1200",
+        "priceDetails": "per user",
+
+        "features": [
+          "Access to 500 profiles",
+          "Advanced search filters",
+          "View contact upto 50 profiles",
+          "Priority customer support"
+        ]
+      },
+      {
+        "name": "Premium Plan 💎",
+        "price": "Rs.2500",
+        "priceDetails": "per user",
+        "features": [
+          "Unlimited profile access",
+          "Advanced search filters",
+          "Unlimited contact views",
+          "Personalized matchmaking support",
+          "Exclusive invites to Prem Milan events"
+        ]
+      }
+    ]
+  },
+  "about": {
+
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/Erapid-Tech",
+      "instagram": "https://www.instagram.com/erapid_tech_llp/",
+      "linkedin": "https://www.linkedin.com/company/erapid-technologies",
+      "contact":"+91 9311032818",
+      "email":"rgarg8438@gmail.com",
+      "addressLine1":"D-3/65, Sector-11",
+      "addressLine2":"Rohini, Delhi-110085"
+    }
+  }
+}
