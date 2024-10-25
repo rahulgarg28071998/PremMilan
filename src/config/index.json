@@ -4,8 +4,6 @@
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
-   
-
     {
       "name": "Pricing",
       "href": "pricing"
@@ -30,7 +28,7 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:rgarg8438@gmail.com?subject=I like react landing page!"
+      "href": "mailto:premmilanmatrimony@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
@@ -115,7 +113,6 @@
     ]
   },
   "about": {
-
     "sections": [
       {
         "name": "Something",
@@ -142,10 +139,10 @@
       "github": "https://github.com/Erapid-Tech",
       "instagram": "https://www.instagram.com/erapid_tech_llp/",
       "linkedin": "https://www.linkedin.com/company/erapid-technologies",
-      "contact":"+91 9311032818",
-      "email":"rgarg8438@gmail.com",
-      "addressLine1":"D-3/65, Sector-11",
-      "addressLine2":"Rohini, Delhi-110085"
+      "contact": "+91 9312212649",
+      "email": "premmilanmatrimony@gmail.com",
+      "addressLine1": "Sector-11,Rohini",
+      "addressLine2": "Delhi-110085"
     }
   }
 }
